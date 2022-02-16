@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  flex-direction: column;
+}
+
+.list input {
+  margin-bottom: 10px;
+}
+
+.list ul {
+  margin-top: 20px;
+  padding-right: 15px;
+  list-style: none;
+}
+
+.red {
+  background-color: red;
+  color: #fff;
+}
